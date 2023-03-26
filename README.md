@@ -17,6 +17,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![](https://visitcount.itsvg.in/api?id=TariqMehmood1004&label=Tariq%20Memood&color=2&pretty=true)](https://visitcount.itsvg.in)
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
