@@ -1,4 +1,4 @@
-![logo](https://github.com/TariqMehmood1004/TariqMehmood1004/blob/main/pexels-jorge-jesus-614117.jpg)
+![logo](https://github.com/TariqMehmood1004/TariqMehmood1004/blob/main/banner.png)
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
