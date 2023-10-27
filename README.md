@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-Tariq Mehmood is a dynamic Software Engineer with a flair for innovation and a passion for cutting-edge technologies. Proficient in C#, ASP.NET, Flutter, and adept in the realms of Data Science with Python and R, Tariq brings a unique blend of programming skills and a keen eye for detail. As an ML enthusiast, he thrives on pushing the boundaries of technology and is equally dedicated to sharing knowledge as a native speaker and development teacher. Tariq's commitment to transforming ideas into impactful solutions reflects his unwavering dedication to the ever-evolving field of software engineering. 🚀✨ 
+I'm a dynamic Software Engineer with a flair for innovation and a passion for cutting-edge technologies. Proficient in C#, ASP.NET, Flutter, and adept in the realms of Data Science with Python and R, Tariq brings a unique blend of programming skills and a keen eye for detail. As an ML enthusiast, he thrives on pushing the boundaries of technology and is equally dedicated to sharing knowledge as a native speaker and development teacher. Tariq's commitment to transforming ideas into impactful solutions reflects his unwavering dedication to the ever-evolving field of software engineering. 🚀✨ 
 
 <hr>
 
