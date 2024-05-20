@@ -1,4 +1,6 @@
-![Tariq Mehmood](https://github.com/TariqMehmood1004/TariqMehmood1004/assets/116074810/f52cde8c-03e9-4371-87f3-28b55400d6b6)
+<div style="width: 100%, height: 80%, object-fit:cover, border-radius: 20px">
+  ![Tariq Mehmood](https://github.com/TariqMehmood1004/TariqMehmood1004/assets/116074810/f52cde8c-03e9-4371-87f3-28b55400d6b6)
+</div>
 
 
 
