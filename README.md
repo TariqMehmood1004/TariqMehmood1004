@@ -1,4 +1,5 @@
-![d1767725a8bd41afa17ac60a7d0c32dc (1)](https://github.com/TariqMehmood1004/TariqMehmood1004/assets/116074810/5ee77463-4b92-40c5-9c9a-908000f898df)
+![Tariq Mehmood](https://github.com/TariqMehmood1004/TariqMehmood1004/assets/116074810/f52cde8c-03e9-4371-87f3-28b55400d6b6)
+
 
 
 # 💫 About Me:
