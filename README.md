@@ -1,5 +1,6 @@
- ![Tariq Mehmood](https://github.com/TariqMehmood1004/TariqMehmood1004/assets/116074810/ea39c5af-5738-4707-ba06-ff55072a6c06)
- 
+
+![Tariq Mehmood](https://github.com/TariqMehmood1004/TariqMehmood1004/assets/116074810/2f30a2d2-8df4-41ba-8d16-6f6c6e18a3ec)
+
 
 # 💫 About Me:
 I'm a dynamic Software Engineer with a flair for innovation and a passion for cutting-edge technologies. Proficient in C#, ASP.NET, Flutter, and adept in the realms of Data Science with Python and R, Tariq brings a unique blend of programming skills and a keen eye for detail. As an ML enthusiast, he thrives on pushing the boundaries of technology and is equally dedicated to sharing knowledge as a native speaker and development teacher. Tariq's commitment to transforming ideas into impactful solutions reflects his unwavering dedication to the ever-evolving field of software engineering. 🚀✨ 
