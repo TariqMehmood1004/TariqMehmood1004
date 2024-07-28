@@ -8,6 +8,7 @@ I'm a dynamic Software Engineer with a flair for innovation and a passion for cu
 <hr>
  
 <h1>Skills</h1>
+<pre>
     <ul class="skills-list">
         <li>Sr. Full Stack Developer</li>
         <li>Sr. Mobile Developer</li>
@@ -16,6 +17,7 @@ I'm a dynamic Software Engineer with a flair for innovation and a passion for cu
         <li>Sr. Laravel Developer</li>
         <li>Sr. Database Developer</li>
         <li>Sr. Python Developer</li>
+     <li>Sr. PHP Developer </li> 
         <li>C/C++ Developer </li>
         <li>C# Developer </li>
         <li>JavaScript Developer</li>
@@ -31,9 +33,11 @@ I'm a dynamic Software Engineer with a flair for innovation and a passion for cu
      <li>Tumigo Computer Language (in Development phase) </li>
      <li>FAST API Developer </li>
      <li>REST API Developer </li>
-     <li>Blender Games Basic Developer </li>
-     <li>Unity Games Basic Developer </li>
+     <li>Blender Games Developer </li>
+     <li>Unity Games Developer </li>
+    <li>R Basic Developer </li>
     </ul>
+</pre>
 
 
 <br>
