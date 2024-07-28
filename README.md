@@ -7,6 +7,13 @@ I'm a dynamic Software Engineer with a flair for innovation and a passion for cu
 
 <hr>
 
+<h2>
+Sr. Full Stack Developer | Sr. Mobile Developer | Sr. Flutter Developer | Sr. Laravel Developer | Sr. Database Developer | Sr. Python Developer | C/C++ | C# | JavaScript | ReactJS/Native | NodeJS | NextJS | Django | ASP.NET | UI/UX Designer | Figma | R | 
+</h2>
+
+
+<br>
+<hr>
 <br>
 🔭 I’m currently working on
 <br>👯 I’m looking to collaborate on
