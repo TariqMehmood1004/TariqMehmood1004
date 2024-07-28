@@ -6,10 +6,27 @@
 I'm a dynamic Software Engineer with a flair for innovation and a passion for cutting-edge technologies. Proficient in C#, ASP.NET, Flutter, and adept in the realms of Data Science with Python and R, Tariq brings a unique blend of programming skills and a keen eye for detail. As an ML enthusiast, he thrives on pushing the boundaries of technology and is equally dedicated to sharing knowledge as a native speaker and development teacher. Tariq's commitment to transforming ideas into impactful solutions reflects his unwavering dedication to the ever-evolving field of software engineering. 🚀✨ 
 
 <hr>
-
-<h2>
-Sr. Full Stack Developer | Sr. Mobile Developer | Sr. Flutter Developer | Sr. Laravel Developer | Sr. Database Developer | Sr. Python Developer | C/C++ | C# | JavaScript | ReactJS/Native | NodeJS | NextJS | Django | ASP.NET | UI/UX Designer | Figma | R | 
-</h2>
+ 
+<h1>Skills</h1>
+    <ul class="skills-list">
+        <li>Sr. Full Stack Developer</li>
+        <li>Sr. Mobile Developer</li>
+        <li>Sr. Flutter Developer</li>
+        <li>Sr. Laravel Developer</li>
+        <li>Sr. Database Developer</li>
+        <li>Sr. Python Developer</li>
+        <li>C/C++</li>
+        <li>C#</li>
+        <li>JavaScript</li>
+        <li>ReactJS/Native</li>
+        <li>NodeJS</li>
+        <li>NextJS</li>
+        <li>Django</li>
+        <li>ASP.NET</li>
+        <li>UI/UX Designer</li>
+        <li>Figma</li>
+        <li>R</li>
+    </ul>
 
 
 <br>
