@@ -8,7 +8,6 @@ I'm a dynamic Software Engineer with a flair for innovation and a passion for cu
 <hr>
  
 <h1>Skills</h1>
-<pre>
     <ul class="skills-list">
         <li>Sr. Full Stack Developer</li>
         <li>Sr. Mobile Developer</li>
@@ -37,7 +36,6 @@ I'm a dynamic Software Engineer with a flair for innovation and a passion for cu
      <li>Unity Games Developer </li>
     <li>R Basic Developer </li>
     </ul>
-</pre>
 
 
 <br>
