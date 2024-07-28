@@ -28,13 +28,12 @@ I'm a dynamic Software Engineer with a flair for innovation and a passion for cu
         <li>Figma Designer </li>
      <li>Adobe XD Designer </li>
      <li>Sketch Designer </li>
-        <li>R Basic Developer </li>
      <li>Tumigo Computer Language (in Development phase) </li>
      <li>FAST API Developer </li>
      <li>REST API Developer </li>
      <li>Blender Games Developer </li>
      <li>Unity Games Developer </li>
-    <li>R Basic Developer </li>
+    <li>R Developer </li>
     </ul>
 
 
