@@ -27,7 +27,7 @@ I'm a dynamic Software Engineer with a flair for innovation and a passion for cu
         <li>Figma Designer </li>
      <li>Adobe XD Designer </li>
      <li>Sketch Designer </li>
-        <li>R</li>
+        <li>R Basic Developer </li>
      <li>Tumigo Computer Language (in Development phase) </li>
     </ul>
 
