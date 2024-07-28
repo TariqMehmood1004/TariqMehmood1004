@@ -29,6 +29,10 @@ I'm a dynamic Software Engineer with a flair for innovation and a passion for cu
      <li>Sketch Designer </li>
         <li>R Basic Developer </li>
      <li>Tumigo Computer Language (in Development phase) </li>
+     <li>FAST API Developer </li>
+     <li>REST API Developer </li>
+     <li>Blender Games Basic Developer </li>
+     <li>Unity Games Basic Developer </li>
     </ul>
 
 
