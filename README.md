@@ -12,20 +12,23 @@ I'm a dynamic Software Engineer with a flair for innovation and a passion for cu
         <li>Sr. Full Stack Developer</li>
         <li>Sr. Mobile Developer</li>
         <li>Sr. Flutter Developer</li>
+     <li>Sr. Django Developer </li> 
         <li>Sr. Laravel Developer</li>
         <li>Sr. Database Developer</li>
         <li>Sr. Python Developer</li>
-        <li>C/C++</li>
-        <li>C#</li>
-        <li>JavaScript</li>
-        <li>ReactJS/Native</li>
-        <li>NodeJS</li>
-        <li>NextJS</li>
-        <li>Django</li>
-        <li>ASP.NET</li>
+        <li>C/C++ Developer </li>
+        <li>C# Developer </li>
+        <li>JavaScript Developer</li>
+        <li>ReactJS/Native Developer </li>
+        <li>NodeJS Developer </li>
+        <li>NextJS Developer </li>
+        <li>ASP.NET (MVC/core) Developer </li>
         <li>UI/UX Designer</li>
-        <li>Figma</li>
+        <li>Figma Designer </li>
+     <li>Adobe XD Designer </li>
+     <li>Sketch Designer </li>
         <li>R</li>
+     <li>Tumigo Computer Language (in Development phase) </li>
     </ul>
 
 
