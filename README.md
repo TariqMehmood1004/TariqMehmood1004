@@ -1,5 +1,5 @@
 
-![Tariq Mehmood](https://github.com/TariqMehmood1004/TariqMehmood1004/assets/116074810/2f30a2d2-8df4-41ba-8d16-6f6c6e18a3ec)
+![WhatsApp Image 2024-09-30 at 2 08 49 PM (1)](https://github.com/user-attachments/assets/d82bf877-02ec-4d07-bbd1-766febeacf40)
 
 
 # 💫 About Me:
