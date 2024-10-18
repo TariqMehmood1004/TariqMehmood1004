@@ -52,7 +52,14 @@ I'm a dynamic Software Engineer with a flair for innovation and a passion for cu
      <li>FAST API Developer </li>
      <li>REST API Developer </li>
      <li>Mid level DevOps Engineer</li>
-     <li>CPanel Live Server Engineer</li>
+     <li>cPanel Live Server Engineer</li>
+     <li>AI Engineer
+         <ul>
+             <li>ML Engineer</li>
+             <li>Deep Learning Engineer</li>
+             <li>NLP Engineer</li>
+         </ul>
+     </li>
     </ul>
 
 
