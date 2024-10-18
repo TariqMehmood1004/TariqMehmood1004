@@ -10,9 +10,17 @@ I'm a dynamic Software Engineer with a flair for innovation and a passion for cu
 <h1>Skills</h1>
     <ul class="skills-list">
         <li>Sr. Full Stack Developer</li>
+        <li>Sr. MERN Stack Developer
+             <ul>
+                 <li>MondoDB Expert</li>
+                 <li>Express Expert</li>
+                 <li>React Expert</li>
+                 <li>Node.js Expert</li>
+             </ul>
+        </li>
         <li>Sr. Mobile Developer</li>
         <li>Sr. Flutter Developer</li>
-     <li>Sr. Django Developer </li> 
+        <li>Sr. Django Developer </li> 
         <li>Sr. Laravel Developer</li>
         <li>Sr. Database Developer
             <ul>
