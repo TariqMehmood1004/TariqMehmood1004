@@ -24,16 +24,16 @@ I'm a dynamic Software Engineer with a flair for innovation and a passion for cu
         <li>NodeJS Developer </li>
         <li>NextJS Developer </li>
         <li>ASP.NET (MVC/core) Developer </li>
-        <li>UI/UX Designer</li>
-        <li>Figma Designer </li>
-     <li>Adobe XD Designer </li>
-     <li>Sketch Designer </li>
-     <li>Tumigo Computer Language (in Development phase) </li>
+     <li>Senior UI/UX Designer
+        <ul>
+           <li>Figma Designer </li>
+           <li>Adobe XD Designer </li>
+           <li>Sketch Designer </li>
+        </ul>
+     </li>    
+     <li> Owner, Founder, and Developer of <code>Tumingo Programming Language</code> that is developing by me. Its in development phase </li>
      <li>FAST API Developer </li>
      <li>REST API Developer </li>
-     <li>Blender Games Developer </li>
-     <li>Unity Games Developer </li>
-    <li>R Developer </li>
     </ul>
 
 
