@@ -14,7 +14,16 @@ I'm a dynamic Software Engineer with a flair for innovation and a passion for cu
         <li>Sr. Flutter Developer</li>
      <li>Sr. Django Developer </li> 
         <li>Sr. Laravel Developer</li>
-        <li>Sr. Database Developer</li>
+        <li>Sr. Database Developer
+            <ul>
+             <li>Microsoft SQL Server</li>
+             <li>MySql Server</li>
+             <li>MongoDB</li>
+             <li>Postgress SQL</li>
+             <li>Firebase</li>
+             <li>SQLite3</li>
+            </ul> 
+        </li>
         <li>Sr. Python Developer</li>
      <li>Sr. PHP Developer </li> 
         <li>C/C++ Developer </li>
