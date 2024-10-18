@@ -48,7 +48,7 @@ I'm a dynamic Software Engineer with a flair for innovation and a passion for cu
            <li>Sketch Designer </li>
         </ul>
      </li>    
-     <li> Owner, Founder, and Developer of <code>Tumingo Programming Language</code> that is developing by me. Its in development phase </li>
+     <li> Owner, Founder, and Developer of <code>Tumigo Programming Language</code> that is developing by me. Its in development phase </li>
      <li>FAST API Developer </li>
      <li>REST API Developer </li>
      <li>Mid level DevOps Engineer</li>
