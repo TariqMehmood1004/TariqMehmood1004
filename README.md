@@ -25,14 +25,14 @@ I'm a dynamic Software Engineer with a flair for innovation and a passion for cu
             </ul> 
         </li>
         <li>Sr. Python Developer</li>
-     <li>Sr. PHP Developer </li> 
+        <li>Sr. PHP Developer </li> 
         <li>C/C++ Developer </li>
         <li>C# Developer </li>
-        <li>JavaScript Developer</li>
-        <li>ReactJS/Native Developer </li>
-        <li>NodeJS Developer </li>
-        <li>NextJS Developer </li>
-        <li>ASP.NET (MVC/core) Developer </li>
+        <li>Sr. JavaScript Developer</li>
+        <li>Sr. ReactJS/Native Developer </li>
+        <li>Sr. NodeJS Developer </li>
+        <li>Sr. NextJS Developer </li>
+        <li>Sr. ASP.NET (MVC/core) Developer </li>
      <li>Senior UI/UX Designer
         <ul>
            <li>Figma Designer </li>
@@ -43,6 +43,8 @@ I'm a dynamic Software Engineer with a flair for innovation and a passion for cu
      <li> Owner, Founder, and Developer of <code>Tumingo Programming Language</code> that is developing by me. Its in development phase </li>
      <li>FAST API Developer </li>
      <li>REST API Developer </li>
+     <li>Mid level DevOps Engineer</li>
+     <li>CPanel Live Server Engineer</li>
     </ul>
 
 
