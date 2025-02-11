@@ -2,64 +2,56 @@
  ![White and Green Simple Profile App Infographic Animated Social Media](https://github.com/user-attachments/assets/cfe92af3-3927-4867-a437-53b351c1bf48)
 
 # 💫 About Me:
-I'm a dynamic Software Engineer with a flair for innovation and a passion for cutting-edge technologies. Proficient in C#, ASP.NET, Flutter, and adept in the realms of Data Science with Python and R, Tariq brings a unique blend of programming skills and a keen eye for detail. As an ML enthusiast, he thrives on pushing the boundaries of technology and is equally dedicated to sharing knowledge as a native speaker and development teacher. Tariq's commitment to transforming ideas into impactful solutions reflects his unwavering dedication to the ever-evolving field of software engineering. 🚀✨ 
+I’m a 𝐝𝐲𝐧𝐚𝐦𝐢𝐜 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐰𝐢𝐭𝐡 𝐚 𝐟𝐥𝐚𝐢𝐫 𝐟𝐨𝐫 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐚 𝐩𝐚𝐬𝐬𝐢𝐨𝐧 𝐟𝐨𝐫 𝐜𝐮𝐭𝐭𝐢𝐧𝐠-𝐞𝐝𝐠𝐞 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬. With expertise in C#, ASP.NET, Flutter, and a 𝐬𝐨𝐥𝐢𝐝 𝐟𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 using Python and R, I bring a unique blend of 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐩𝐫𝐨𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲 𝐚𝐧𝐝 𝐚𝐧 𝐞𝐲𝐞 𝐟𝐨𝐫 𝐝𝐞𝐭𝐚𝐢𝐥. As a dedicated Machine Learning enthusiast, I thrive on pushing the boundaries of technology and continually challenge myself to create impactful solutions. In addition to my technical abilities, I’m deeply committed to sharing my knowledge as 𝐚 𝐧𝐚𝐭𝐢𝐯𝐞 𝐬𝐩𝐞𝐚𝐤𝐞𝐫 𝐚𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐭𝐞𝐚𝐜𝐡𝐞𝐫, empowering others to embrace the ever-evolving field of software engineering. My commitment to transforming ideas into impactful solutions speaks volumes about my unwavering dedication to the craft. 🚀✨ 
 
 <hr>
  
-<h1>Skills</h1>
-    <ul class="skills-list">
-        <li>Sr. Full Stack Developer</li>
-        <li>Sr. MERN Stack Developer
-             <ul>
-                 <li>MondoDB Expert</li>
-                 <li>Express Expert</li>
-                 <li>React Expert</li>
-                 <li>Node.js Expert</li>
-             </ul>
-        </li>
-        <li>Sr. Mobile Developer</li>
-        <li>Sr. Flutter Developer</li>
-        <li>Sr. Django Developer </li> 
-        <li>Sr. Laravel Developer</li>
-        <li>Sr. Database Developer
-            <ul>
-             <li>Microsoft SQL Server</li>
-             <li>MySql Server</li>
-             <li>MongoDB</li>
-             <li>Postgress SQL</li>
-             <li>Firebase</li>
-             <li>SQLite3</li>
-            </ul> 
-        </li>
-        <li>Sr. Python Developer</li>
-        <li>Sr. PHP Developer </li> 
-        <li>C/C++ Developer </li>
-        <li>C# Developer </li>
-        <li>Sr. JavaScript Developer</li>
-        <li>Sr. ReactJS/Native Developer </li>
-        <li>Sr. NodeJS Developer </li>
-        <li>Sr. NextJS Developer </li>
-        <li>Sr. ASP.NET (MVC/core) Developer </li>
-     <li>Senior UI/UX Designer
-        <ul>
-           <li>Figma Designer </li>
-           <li>Adobe XD Designer </li>
-           <li>Sketch Designer </li>
-        </ul>
-     </li>    
-     <li> Owner, Founder, and Developer of <code>Tumigo Programming Language</code> that is developing by me. Its in development phase </li>
-     <li>FAST API Developer </li>
-     <li>REST API Developer </li>
-     <li>Mid level DevOps Engineer</li>
-     <li>cPanel Live Server Engineer</li>
-     <li>AI Engineer
-         <ul>
-             <li>ML Engineer</li>
-             <li>Deep Learning Engineer</li>
-             <li>NLP Engineer</li>
-         </ul>
-     </li>
-    </ul>
+## Skills
+
+- **AWS Web Deployment** | EC2 | **RDS** | **S3** | **ELB** | Auto Scaling
+- **App Deployments**
+  - Google Play Store
+  - Apple Store
+- **Sr. Full Stack Developer**
+- **Sr. MERN Stack Developer**
+  - MongoDB Expert
+  - Express Expert
+  - React Expert
+  - Node.js Expert
+- **Sr. Mobile Developer**
+- **Sr. Flutter Developer**
+- **Sr. Django Developer**
+- **Sr. Laravel Developer**
+- **Sr. Database Developer**
+  - Microsoft SQL Server
+  - MySQL Server
+  - MongoDB
+  - PostgreSQL
+  - Firebase
+  - SQLite3
+- **Sr. Python Developer**
+- **Sr. PHP Developer**
+- **C/C++ Developer**
+- **C# Developer**
+- **Sr. JavaScript Developer**
+- **Sr. ReactJS/Native Developer**
+- **Sr. NodeJS Developer**
+- **Sr. NextJS Developer**
+- **Sr. ASP.NET (MVC/Core) Developer**
+- **Senior UI/UX Designer**
+  - Figma Designer
+  - Adobe XD Designer
+  - Sketch Designer
+- **Founder & Developer** of **TUMIGO Programming Language** (currently in development)
+- **APIs Developer**
+  - FAST API Developer
+  - REST API Developer
+- **cPanel Live Server Engineer**
+- **AI Engineer**
+  - ML Engineer
+  - Deep Learning Engineer
+  - NLP Engineer
+
 
 
 <br>
