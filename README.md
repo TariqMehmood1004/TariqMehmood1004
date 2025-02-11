@@ -8,6 +8,7 @@ I’m a 𝐝𝐲𝐧𝐚𝐦𝐢𝐜 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧�
  
 ## Skills
 
+- **JIRA Tester** | Scrum Master | **AIO Tests** | **Water fall**
 - **AWS Web Deployment** | EC2 | **RDS** | **S3** | **ELB** | Auto Scaling
 - **App Deployments**
   - Google Play Store
