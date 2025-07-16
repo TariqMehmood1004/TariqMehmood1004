@@ -1,4 +1,6 @@
 
+<meta name="google-site-verification" content="oLWuOdGiG6sXVLli1FRrOHa3T845JKTaK1Kjk_ZnFiA" />
+
  ![White and Green Simple Profile App Infographic Animated Social Media](https://github.com/user-attachments/assets/cfe92af3-3927-4867-a437-53b351c1bf48)
 
 # 💫 About Me:
