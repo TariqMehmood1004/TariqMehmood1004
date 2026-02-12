@@ -2,7 +2,16 @@
 <meta name="google-site-verification" content="oLWuOdGiG6sXVLli1FRrOHa3T845JKTaK1Kjk_ZnFiA" />
 
 # About Me:
-I’m a 𝐝𝐲𝐧𝐚𝐦𝐢𝐜 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐰𝐢𝐭𝐡 𝐚 𝐟𝐥𝐚𝐢𝐫 𝐟𝐨𝐫 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐚 𝐩𝐚𝐬𝐬𝐢𝐨𝐧 𝐟𝐨𝐫 𝐜𝐮𝐭𝐭𝐢𝐧𝐠-𝐞𝐝𝐠𝐞 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬. With expertise in C#, ASP.NET, Flutter, and a 𝐬𝐨𝐥𝐢𝐝 𝐟𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 using Python and R, I bring a unique blend of 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐩𝐫𝐨𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲 𝐚𝐧𝐝 𝐚𝐧 𝐞𝐲𝐞 𝐟𝐨𝐫 𝐝𝐞𝐭𝐚𝐢𝐥. As a dedicated Machine Learning enthusiast, I thrive on pushing the boundaries of technology and continually challenge myself to create impactful solutions. In addition to my technical abilities, I’m deeply committed to sharing my knowledge as 𝐚 𝐧𝐚𝐭𝐢𝐯𝐞 𝐬𝐩𝐞𝐚𝐤𝐞𝐫 𝐚𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐭𝐞𝐚𝐜𝐡𝐞𝐫, empowering others to embrace the ever-evolving field of software engineering. My commitment to transforming ideas into impactful solutions speaks volumes about my unwavering dedication to the craft. 🚀✨ 
+I am a 𝐬𝐞𝐧𝐢𝐨𝐫 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫 (𝐬𝐞𝐧𝐢𝐨𝐫 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫, 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫), 𝐚𝐧𝐝 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 (𝐀𝐈 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭) & a 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞; design the whole structure of the system. With expertise in over 26 programming languages, frameworks, platforms, library programming, and a CLI maker like NodeJS cli system named 𝙣𝙥𝙢 𝙞 𝙘𝙧𝙚𝙖𝙩𝙚-𝙨𝙮𝙣𝙩𝙖𝙭𝙞𝙡𝙞𝙩𝙮-𝙚𝙭𝙥𝙧𝙚𝙨𝙨-𝙖𝙥𝙥@𝙡𝙖𝙩𝙚𝙨𝙩. Beyond coding, I am a natural communicator and mentor, committed to empowering others in the ever-evolving field of software engineering.
+
+Basically, I'm a one-man IT department on the move.
+
+𝐇𝐚𝐯𝐢𝐧𝐠 𝐬𝐭𝐫𝐨𝐧𝐠 𝐜𝐞𝐧𝐜𝐞𝐩𝐭𝐬 𝐢𝐧:
+• Programming Fundamentals (PF). 
+• Object-oriented programming (OOP). 
+• Data Structure and Algorithm (DSA). 
+• Database Management Systems (DBMS). 
+• A motivated Mentor. 
 
 <hr>
  
