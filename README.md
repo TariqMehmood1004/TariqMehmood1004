@@ -7,11 +7,11 @@ I am a 𝐬𝐞𝐧𝐢𝐨𝐫 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠�
 Basically, I'm a one-man IT department on the move.
 
 ### 𝐇𝐚𝐯𝐢𝐧𝐠 𝐬𝐭𝐫𝐨𝐧𝐠 𝐜𝐞𝐧𝐜𝐞𝐩𝐭𝐬 𝐢𝐧:
-• Programming Fundamentals (PF). 
-• Object-oriented programming (OOP). 
-• Data Structure and Algorithm (DSA). 
-• Database Management Systems (DBMS). 
-• A motivated Mentor. 
+• Programming Fundamentals (PF). <br />
+• Object-oriented programming (OOP). <br />
+• Data Structure and Algorithm (DSA). <br />
+• Database Management Systems (DBMS). <br />
+• A motivated Mentor. <br />
 
 <hr>
  
