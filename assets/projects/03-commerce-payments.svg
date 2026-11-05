@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-label="Commerce &amp; Payments: One centralized backend behind multiple Shopify and WooCommerce storefronts: product sync, cross-store checkout and Stripe, PayPal, Adyen and OceanPayment behind one payment layer.">
+  <rect x="0.5" y="0.5" width="599" height="299" rx="16" fill="#0a0a0a" stroke="#1f1f1f" />
+  <text x="32" y="48" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2.5" fill="#f5a524">03 · SWIFTNINE LLC · 2026</text>
+  <text x="568" y="92" text-anchor="end" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="-1" fill="#fafafa">4</text>
+  <text x="568" y="112" text-anchor="end" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.5" fill="#8a8a8a">PAYMENT PROVIDERS</text>
+  <text x="32" y="96" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="27" font-weight="800" letter-spacing="-0.6" fill="#fafafa">Commerce &amp; Payments</text>
+  <text x="32" y="122" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#8a8a8a">Multi-tenant commerce backend · Senior Engineer</text>
+  <text x="32" y="162" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#d4d4d4">One centralized backend behind multiple Shopify and WooCommerce</text>
+  <text x="32" y="184" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#d4d4d4">storefronts: product sync, cross-store checkout and Stripe, PayPal,</text>
+  <text x="32" y="206" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#d4d4d4">Adyen and OceanPayment behind one payment layer.</text>
+  <rect x="32" y="240" width="78" height="28" rx="14" fill="#151515" stroke="#262626" />
+  <text x="71" y="258.5" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#b5b5b5">Node.js</text>
+  <rect x="118" y="240" width="100" height="28" rx="14" fill="#151515" stroke="#262626" />
+  <text x="168" y="258.5" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#b5b5b5">PostgreSQL</text>
+  <rect x="226" y="240" width="70" height="28" rx="14" fill="#151515" stroke="#262626" />
+  <text x="261" y="258.5" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#b5b5b5">Stripe</text>
+  <rect x="304" y="240" width="63" height="28" rx="14" fill="#151515" stroke="#262626" />
+  <text x="335.5" y="258.5" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#b5b5b5">Adyen</text>
+  <text x="568" y="258" text-anchor="end" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#f5a524">View →</text>
+</svg>

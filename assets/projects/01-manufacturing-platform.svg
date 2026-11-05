@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-label="Enterprise Manufacturing Platform: Event-driven microservices connecting product lifecycle, production planning and ERP workflows around a single system of record, prepared for device telemetry and AI-assisted planning.">
+  <rect x="0.5" y="0.5" width="599" height="299" rx="16" fill="#0a0a0a" stroke="#1f1f1f" />
+  <text x="32" y="48" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2.5" fill="#f5a524">01 · CURRENT ROLE · 2026 – PRESENT</text>
+  <text x="32" y="96" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="27" font-weight="800" letter-spacing="-0.6" fill="#fafafa">Enterprise Manufacturing Platform</text>
+  <text x="32" y="122" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#8a8a8a">Senior Software Engineer &amp; Solution Architect</text>
+  <text x="32" y="162" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#d4d4d4">Event-driven microservices connecting product lifecycle, production</text>
+  <text x="32" y="184" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#d4d4d4">planning and ERP workflows around a single system of record, prepared</text>
+  <text x="32" y="206" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#d4d4d4">for device telemetry and AI-assisted planning.</text>
+  <rect x="32" y="240" width="56" height="28" rx="14" fill="#151515" stroke="#262626" />
+  <text x="60" y="258.5" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#b5b5b5">.NET</text>
+  <rect x="96" y="240" width="100" height="28" rx="14" fill="#151515" stroke="#262626" />
+  <text x="146" y="258.5" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#b5b5b5">PostgreSQL</text>
+  <rect x="204" y="240" width="63" height="28" rx="14" fill="#151515" stroke="#262626" />
+  <text x="235.5" y="258.5" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#b5b5b5">Redis</text>
+  <rect x="275" y="240" width="130" height="28" rx="14" fill="#151515" stroke="#262626" />
+  <text x="340" y="258.5" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#b5b5b5">Message queues</text>
+  <text x="568" y="258" text-anchor="end" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#f5a524">View →</text>
+</svg>

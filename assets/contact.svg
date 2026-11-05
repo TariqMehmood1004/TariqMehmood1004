@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Contact: tariq-mehmood@engineer.com">
+  <rect x="0.5" y="0.5" width="1199" height="229" rx="16" fill="#0a0a0a" stroke="#1f1f1f" />
+  <text x="40" y="56" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2.5" fill="#f5a524">CONTACT</text>
+  <text x="40" y="112" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" letter-spacing="-1.5" fill="#fafafa">Let's build something great together<tspan fill="#f5a524">.</tspan></text>
+  <text x="40" y="162" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#f5a524">tariq-mehmood@engineer.com</text>
+  <text x="40" y="192" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#8a8a8a">Senior Engineering · Software &amp; Solutions Architecture · AI Engineering · Technical Leadership · Full-time, contract or remote</text>
+</svg>

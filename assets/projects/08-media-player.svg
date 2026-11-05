@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-label="SyntaxilitY Media Player: An Electron desktop player with playlists, subtitles and lyrics, mini, floating and full-screen modes, and a glass interface whose colors adapt to whatever is playing.">
+  <rect x="0.5" y="0.5" width="599" height="299" rx="16" fill="#0a0a0a" stroke="#1f1f1f" />
+  <text x="32" y="48" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2.5" fill="#f5a524">08 · PERSONAL · 2025 – PRESENT</text>
+  <text x="32" y="96" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="27" font-weight="800" letter-spacing="-0.6" fill="#fafafa">SyntaxilitY Media Player</text>
+  <text x="32" y="122" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#8a8a8a">Cross-platform desktop app · Creator</text>
+  <text x="32" y="162" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#d4d4d4">An Electron desktop player with playlists, subtitles and lyrics, mini,</text>
+  <text x="32" y="184" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#d4d4d4">floating and full-screen modes, and a glass interface whose colors</text>
+  <text x="32" y="206" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#d4d4d4">adapt to whatever is playing.</text>
+  <rect x="32" y="240" width="85" height="28" rx="14" fill="#151515" stroke="#262626" />
+  <text x="74.5" y="258.5" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#b5b5b5">Electron</text>
+  <rect x="125" y="240" width="63" height="28" rx="14" fill="#151515" stroke="#262626" />
+  <text x="156.5" y="258.5" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#b5b5b5">React</text>
+  <rect x="196" y="240" width="100" height="28" rx="14" fill="#151515" stroke="#262626" />
+  <text x="246" y="258.5" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#b5b5b5">TypeScript</text>
+  <rect x="304" y="240" width="78" height="28" rx="14" fill="#151515" stroke="#262626" />
+  <text x="343" y="258.5" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#b5b5b5">Zustand</text>
+  <text x="568" y="258" text-anchor="end" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#f5a524">View →</text>
+</svg>

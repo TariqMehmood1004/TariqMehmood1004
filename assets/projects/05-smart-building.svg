@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-label="Smart Building Automation: Monitors and controls 16+ building subsystems in real time, handles millions of requests with clustering and worker threads, and predicts failures with AI anomaly detection.">
+  <rect x="0.5" y="0.5" width="599" height="299" rx="16" fill="#0a0a0a" stroke="#1f1f1f" />
+  <text x="32" y="48" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2.5" fill="#f5a524">05 · PAKISTAN AIR FORCE · HYETEL X</text>
+  <text x="568" y="92" text-anchor="end" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="-1" fill="#fafafa">85%</text>
+  <text x="568" y="112" text-anchor="end" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.5" fill="#8a8a8a">LESS DOWNTIME</text>
+  <text x="32" y="96" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="27" font-weight="800" letter-spacing="-0.6" fill="#fafafa">Smart Building Automation</text>
+  <text x="32" y="122" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#8a8a8a">Building management system · Senior Engineer</text>
+  <text x="32" y="162" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#d4d4d4">Monitors and controls 16+ building subsystems in real time, handles</text>
+  <text x="32" y="184" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#d4d4d4">millions of requests with clustering and worker threads, and predicts</text>
+  <text x="32" y="206" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#d4d4d4">failures with AI anomaly detection.</text>
+  <rect x="32" y="240" width="78" height="28" rx="14" fill="#151515" stroke="#262626" />
+  <text x="71" y="258.5" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#b5b5b5">Node.js</text>
+  <rect x="118" y="240" width="70" height="28" rx="14" fill="#151515" stroke="#262626" />
+  <text x="153" y="258.5" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#b5b5b5">Python</text>
+  <rect x="196" y="240" width="93" height="28" rx="14" fill="#151515" stroke="#262626" />
+  <text x="242.5" y="258.5" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#b5b5b5">Socket.IO</text>
+  <rect x="297" y="240" width="63" height="28" rx="14" fill="#151515" stroke="#262626" />
+  <text x="328.5" y="258.5" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#b5b5b5">Kafka</text>
+  <text x="568" y="258" text-anchor="end" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#f5a524">View →</text>
+</svg>

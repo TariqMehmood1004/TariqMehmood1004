@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-label="Emergi Mentors: A mentorship marketplace with live video sessions and AI-powered career services, architected and launched while leading an 8+ member engineering team.">
+  <rect x="0.5" y="0.5" width="599" height="299" rx="16" fill="#0a0a0a" stroke="#1f1f1f" />
+  <text x="32" y="48" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2.5" fill="#f5a524">06 · EMERGI MENTORS · AUSTRALIA</text>
+  <text x="568" y="92" text-anchor="end" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="-1" fill="#fafafa">8+</text>
+  <text x="568" y="112" text-anchor="end" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.5" fill="#8a8a8a">ENGINEERS LED</text>
+  <text x="32" y="96" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="27" font-weight="800" letter-spacing="-0.6" fill="#fafafa">Emergi Mentors</text>
+  <text x="32" y="122" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#8a8a8a">Mentoring platform · Technical Lead &amp; Architect</text>
+  <text x="32" y="162" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#d4d4d4">A mentorship marketplace with live video sessions and AI-powered</text>
+  <text x="32" y="184" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#d4d4d4">career services, architected and launched while leading an 8+ member</text>
+  <text x="32" y="206" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#d4d4d4">engineering team.</text>
+  <rect x="32" y="240" width="78" height="28" rx="14" fill="#151515" stroke="#262626" />
+  <text x="71" y="258.5" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#b5b5b5">FastAPI</text>
+  <rect x="118" y="240" width="78" height="28" rx="14" fill="#151515" stroke="#262626" />
+  <text x="157" y="258.5" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#b5b5b5">Laravel</text>
+  <rect x="204" y="240" width="100" height="28" rx="14" fill="#151515" stroke="#262626" />
+  <text x="254" y="258.5" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#b5b5b5">PostgreSQL</text>
+  <rect x="312" y="240" width="70" height="28" rx="14" fill="#151515" stroke="#262626" />
+  <text x="347" y="258.5" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#b5b5b5">Docker</text>
+  <text x="568" y="258" text-anchor="end" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#f5a524">View →</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Career highlights">
+  <rect x="0.5" y="0.5" width="1199" height="149" rx="16" fill="#0a0a0a" stroke="#1f1f1f" />
+  <text x="120" y="80" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="-1.5" fill="#fafafa">9<tspan fill="#f5a524">+</tspan></text>
+  <text x="120" y="110" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="2" fill="#8a8a8a">YEARS IN PRODUCTION</text>
+  <line x1="240" y1="32" x2="240" y2="118" stroke="#1f1f1f" />
+  <text x="360" y="80" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="-1.5" fill="#fafafa">100<tspan fill="#f5a524">+</tspan></text>
+  <text x="360" y="110" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="2" fill="#8a8a8a">CLIENT PROJECTS DELIVERED</text>
+  <line x1="480" y1="32" x2="480" y2="118" stroke="#1f1f1f" />
+  <text x="600" y="80" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="-1.5" fill="#fafafa">85<tspan fill="#f5a524">%</tspan></text>
+  <text x="600" y="110" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="2" fill="#8a8a8a">DOWNTIME CUT, SMART BUILDING</text>
+  <line x1="720" y1="32" x2="720" y2="118" stroke="#1f1f1f" />
+  <text x="840" y="80" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="-1.5" fill="#fafafa">8<tspan fill="#f5a524">+</tspan></text>
+  <text x="840" y="110" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="2" fill="#8a8a8a">ENGINEERS LED</text>
+  <line x1="960" y1="32" x2="960" y2="118" stroke="#1f1f1f" />
+  <text x="1080" y="80" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="-1.5" fill="#fafafa">19<tspan fill="#f5a524"></tspan></text>
+  <text x="1080" y="110" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="2" fill="#8a8a8a">NPM PACKAGES PUBLISHED</text>
+</svg>
