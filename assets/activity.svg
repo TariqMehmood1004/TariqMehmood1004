@@ -122,8 +122,8 @@
   <rect x="402.5" y="175" width="15" height="15" rx="3" fill="#161616"><title>2026-02-27: 0</title></rect>
   <rect x="402.5" y="194" width="15" height="15" rx="3" fill="#161616"><title>2026-02-28: 0</title></rect>
   <rect x="421.5" y="80" width="15" height="15" rx="3" fill="#161616"><title>2026-03-01: 0</title></rect>
-  <rect x="421.5" y="99" width="15" height="15" rx="3" fill="#161616"><title>2026-03-02: 0</title></rect>
-  <rect x="421.5" y="118" width="15" height="15" rx="3" fill="#7a5512"><title>2026-03-03: 4</title></rect>
+  <rect x="421.5" y="99" width="15" height="15" rx="3" fill="#4a3510"><title>2026-03-02: 1</title></rect>
+  <rect x="421.5" y="118" width="15" height="15" rx="3" fill="#4a3510"><title>2026-03-03: 3</title></rect>
   <rect x="421.5" y="137" width="15" height="15" rx="3" fill="#161616"><title>2026-03-04: 0</title></rect>
   <rect x="421.5" y="156" width="15" height="15" rx="3" fill="#161616"><title>2026-03-05: 0</title></rect>
   <rect x="421.5" y="175" width="15" height="15" rx="3" fill="#161616"><title>2026-03-06: 0</title></rect>
@@ -156,8 +156,8 @@
   <rect x="497.5" y="156" width="15" height="15" rx="3" fill="#161616"><title>2026-04-02: 0</title></rect>
   <rect x="497.5" y="175" width="15" height="15" rx="3" fill="#161616"><title>2026-04-03: 0</title></rect>
   <rect x="497.5" y="194" width="15" height="15" rx="3" fill="#161616"><title>2026-04-04: 0</title></rect>
-  <rect x="516.5" y="80" width="15" height="15" rx="3" fill="#4a3510"><title>2026-04-05: 1</title></rect>
-  <rect x="516.5" y="99" width="15" height="15" rx="3" fill="#4a3510"><title>2026-04-06: 2</title></rect>
+  <rect x="516.5" y="80" width="15" height="15" rx="3" fill="#4a3510"><title>2026-04-05: 2</title></rect>
+  <rect x="516.5" y="99" width="15" height="15" rx="3" fill="#4a3510"><title>2026-04-06: 1</title></rect>
   <rect x="516.5" y="118" width="15" height="15" rx="3" fill="#161616"><title>2026-04-07: 0</title></rect>
   <rect x="516.5" y="137" width="15" height="15" rx="3" fill="#161616"><title>2026-04-08: 0</title></rect>
   <rect x="516.5" y="156" width="15" height="15" rx="3" fill="#161616"><title>2026-04-09: 0</title></rect>
@@ -289,8 +289,8 @@
   <rect x="858.5" y="156" width="15" height="15" rx="3" fill="#161616"><title>2026-08-13: 0</title></rect>
   <rect x="858.5" y="175" width="15" height="15" rx="3" fill="#161616"><title>2026-08-14: 0</title></rect>
   <rect x="858.5" y="194" width="15" height="15" rx="3" fill="#161616"><title>2026-08-15: 0</title></rect>
-  <rect x="877.5" y="80" width="15" height="15" rx="3" fill="#161616"><title>2026-08-16: 0</title></rect>
-  <rect x="877.5" y="99" width="15" height="15" rx="3" fill="#4a3510"><title>2026-08-17: 3</title></rect>
+  <rect x="877.5" y="80" width="15" height="15" rx="3" fill="#4a3510"><title>2026-08-16: 1</title></rect>
+  <rect x="877.5" y="99" width="15" height="15" rx="3" fill="#4a3510"><title>2026-08-17: 2</title></rect>
   <rect x="877.5" y="118" width="15" height="15" rx="3" fill="#161616"><title>2026-08-18: 0</title></rect>
   <rect x="877.5" y="137" width="15" height="15" rx="3" fill="#161616"><title>2026-08-19: 0</title></rect>
   <rect x="877.5" y="156" width="15" height="15" rx="3" fill="#161616"><title>2026-08-20: 0</title></rect>
@@ -382,36 +382,36 @@
   <text x="600" y="318" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.5" fill="#8a8a8a">CURRENT STREAK</text>
   <text x="760" y="294" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="-1" fill="#fafafa">3</text>
   <text x="760" y="318" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.5" fill="#8a8a8a">LONGEST STREAK</text>
-  <text x="920" y="294" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="-1" fill="#fafafa">157</text>
+  <text x="920" y="294" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="-1" fill="#fafafa">95</text>
   <text x="920" y="318" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.5" fill="#8a8a8a">REPOSITORIES</text>
-  <text x="1080" y="294" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="-1" fill="#fafafa">97</text>
+  <text x="1080" y="294" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="-1" fill="#fafafa">84</text>
   <text x="1080" y="318" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.5" fill="#8a8a8a">STARS EARNED</text>
   <line x1="40" y1="340" x2="1160" y2="340" stroke="#1f1f1f" />
   <clipPath id="bar"><rect x="40" y="360" width="1120" height="10" rx="5" /></clipPath>
   <g clip-path="url(#bar)">
-    <rect x="40" y="360" width="434.76308470733454" height="10" fill="#f1e05a" />
-    <rect x="474.76308470733454" y="360" width="194.53903049518365" height="10" fill="#3572A5" />
-    <rect x="669.3021152025182" y="360" width="155.59863052978747" height="10" fill="#DA5B0B" />
-    <rect x="824.9007457323056" y="360" width="82.04463336210743" height="10" fill="#4F5D95" />
-    <rect x="906.945379094413" y="360" width="69.58040199173858" height="10" fill="#663399" />
-    <rect x="976.5257810861516" y="360" width="51.503564656017744" height="10" fill="#f7523f" />
-    <rect x="1028.0293457421694" y="360" width="48.0038092543734" height="10" fill="#00B4AB" />
-    <rect x="1076.0331549965429" y="360" width="83.9668450034572" height="10" fill="#3a3a3a" />
+    <rect x="40" y="360" width="511.371128027534" height="10" fill="#3572A5" />
+    <rect x="551.371128027534" y="360" width="410.7840418319988" height="10" fill="#DA5B0B" />
+    <rect x="962.1551698595329" y="360" width="75.54470723763743" height="10" fill="#00B4AB" />
+    <rect x="1037.6998770971702" y="360" width="32.43409824641247" height="10" fill="#e34c26" />
+    <rect x="1070.1339753435827" y="360" width="26.171849444626172" height="10" fill="#f1e05a" />
+    <rect x="1096.3058247882088" y="360" width="18.12006077586411" height="10" fill="#3178c6" />
+    <rect x="1114.425885564073" y="360" width="14.89726295279678" height="10" fill="#663399" />
+    <rect x="1129.3231485168699" y="360" width="30.676851483130196" height="10" fill="#3a3a3a" />
   </g>
-  <circle cx="45" cy="402" r="5" fill="#f1e05a" />
-  <text x="56" y="407" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#d4d4d4">JavaScript 38.8%</text>
-  <circle cx="207.4" cy="402" r="5" fill="#3572A5" />
-  <text x="218.4" y="407" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#d4d4d4">Python 17.4%</text>
-  <circle cx="340.20000000000005" cy="402" r="5" fill="#DA5B0B" />
-  <text x="351.20000000000005" y="407" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#d4d4d4">Jupyter Notebook 13.9%</text>
-  <circle cx="547" cy="402" r="5" fill="#4F5D95" />
-  <text x="558" y="407" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#d4d4d4">PHP 7.3%</text>
-  <circle cx="650.2" cy="402" r="5" fill="#663399" />
-  <text x="661.2" y="407" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#d4d4d4">CSS 6.2%</text>
-  <circle cx="753.4000000000001" cy="402" r="5" fill="#f7523f" />
-  <text x="764.4000000000001" y="407" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#d4d4d4">Blade 4.6%</text>
-  <circle cx="871.4000000000001" cy="402" r="5" fill="#00B4AB" />
-  <text x="882.4000000000001" y="407" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#d4d4d4">Dart 4.3%</text>
-  <circle cx="982.0000000000001" cy="402" r="5" fill="#3a3a3a" />
-  <text x="993.0000000000001" y="407" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#d4d4d4">Other 7.5%</text>
+  <circle cx="45" cy="402" r="5" fill="#3572A5" />
+  <text x="56" y="407" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#d4d4d4">Python 45.7%</text>
+  <circle cx="177.8" cy="402" r="5" fill="#DA5B0B" />
+  <text x="188.8" y="407" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#d4d4d4">Jupyter Notebook 36.7%</text>
+  <circle cx="384.6" cy="402" r="5" fill="#00B4AB" />
+  <text x="395.6" y="407" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#d4d4d4">Dart 6.7%</text>
+  <circle cx="495.20000000000005" cy="402" r="5" fill="#e34c26" />
+  <text x="506.20000000000005" y="407" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#d4d4d4">HTML 2.9%</text>
+  <circle cx="605.8000000000001" cy="402" r="5" fill="#f1e05a" />
+  <text x="616.8000000000001" y="407" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#d4d4d4">JavaScript 2.3%</text>
+  <circle cx="760.8000000000001" cy="402" r="5" fill="#3178c6" />
+  <text x="771.8000000000001" y="407" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#d4d4d4">TypeScript 1.6%</text>
+  <circle cx="915.8000000000001" cy="402" r="5" fill="#663399" />
+  <text x="926.8000000000001" y="407" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#d4d4d4">CSS 1.3%</text>
+  <circle cx="1019.0000000000001" cy="402" r="5" fill="#3a3a3a" />
+  <text x="1030" y="407" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#d4d4d4">Other 2.7%</text>
 </svg>
