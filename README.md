@@ -1,225 +1,164 @@
-<div align="center">
+<a href="https://www.tariq-mehmood.online">
+  <img src="./assets/banner.svg" width="100%" alt="Tariq Mehmood, Senior Software Engineer and Solution Architect" />
+</a>
 
-# Tariq Mehmood
-
-**Senior Software Engineer &nbsp;|&nbsp; Software Architect &nbsp;|&nbsp; Full Stack Engineer &nbsp;|&nbsp; AI Engineer**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Designing+scalable%2C+distributed%2C+AI-powered+systems;Enterprise+PLM+%2F+MES+%E2%80%A2+Multi-tenant+SaaS+%E2%80%A2+Real-time+platforms;Founder+of+AxilJS+-+a+modern+backend+ecosystem+for+JS+%2F+TS" alt="Typing SVG" />
-
-<p>
-  <a href="https://www.tariq-mehmood.online"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/tariq-mehmood-3ab013254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:tariq-mehmood@engineer.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
-  <a href="https://www.axiljs.dev/"><img src="https://img.shields.io/badge/AxilJS-1F2937?style=for-the-badge&logo=typescript&logoColor=white" alt="AxilJS" /></a>
-  <a href="https://github.com/SyntaxilitY"><img src="https://img.shields.io/badge/SyntaxilitY-181717?style=for-the-badge&logo=github&logoColor=white" alt="SyntaxilitY on GitHub" /></a>
-  <a href="https://leetcode.com/u/TariqMehmood1004"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.youtube.com/@SyntaxilitY"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<p align="center">
+  <a href="https://www.tariq-mehmood.online"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.tariq-mehmood.online/work">Case studies</a> &nbsp;·&nbsp;
+  <a href="https://www.tariq-mehmood.online/resume">Resume</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/tar-me/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.axiljs.dev/">AxilJS</a> &nbsp;·&nbsp;
+  <a href="https://github.com/SyntaxilitY">SyntaxilitY</a> &nbsp;·&nbsp;
+  <a href="https://www.youtube.com/@SyntaxilitY">YouTube</a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/TariqMehmood1004/">LeetCode</a> &nbsp;·&nbsp;
+  <a href="mailto:tariq-mehmood@engineer.com">Email</a>
 </p>
 
-<sub>Lahore, Pakistan &nbsp;·&nbsp; 8+ years of engineering since 2017 &nbsp;·&nbsp; 100+ delivered projects</sub>
+<br />
 
-</div>
+### Architecture that ships.
 
----
+I design and build **distributed, real-time and AI-powered systems**, from architecture and system design through implementation, deployment and production operations.
 
-## About
-
-I am a Senior Software Engineer and Software Architect specializing in the design and development of **scalable enterprise, multi-tenant SaaS, distributed, cloud-native, and AI-powered systems**.
-
-My core strengths are backend engineering and system architecture: Node.js, TypeScript, Python, ASP.NET Core, PostgreSQL, real-time systems, event-driven architecture, AWS, Docker, and CI/CD. I take complex business requirements from architecture and system design through implementation, deployment, and production operations.
-
-**Currently**
-
-- Senior Software Engineer & Solution Architect at **[LimeLight](https://www.limelight.pk/)**, architecting an enterprise PLM / MES platform with SAP Business One, IoT, and AI integrations.
-- Building **[AxilJS](https://www.axiljs.dev/)**, a modular, next-generation backend ecosystem for JavaScript and TypeScript.
-
-**Open to:** Senior Software Engineering · Software / Solutions Architecture · AI Engineering · Backend Engineering · Technical Leadership
-
----
-
-## Featured Projects
+I have 9+ years of hands-on experience since 2017, designing enterprise, multi-tenant SaaS, event-driven and AI systems. My core is backend and architecture: **Node.js, TypeScript, Python, ASP.NET Core, PostgreSQL, Redis, RabbitMQ and Kafka**, deployed on **AWS, Docker and CI/CD**, with React and Next.js on the front. I also build my own tools, like the [AxilJS](https://www.axiljs.dev/) backend ecosystem.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://www.axiljs.dev/">AxilJS</a></h4>
-      <sub><b>Founder & Architect</b> · Open-source backend ecosystem</sub>
-      <p>A modular, package-based JavaScript / TypeScript backend ecosystem covering HTTP, routing, ORM, authentication, security, validation, queues, events, WebSockets, SSE, AI / LLM, testing, observability, and CLI tooling. Supports both monolithic and microservice architectures.</p>
-      <sub><code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code> <code>RabbitMQ</code> <code>Kafka</code> <code>npm Workspaces</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://tygent.vercel.app/">Tygent</a></h4>
-      <sub><b>Architect & Lead Engineer</b> · Multi-agent AI recruitment platform</sub>
-      <p>An 8-agent AI orchestration pipeline for resume and JD analysis, candidate matching, hiring-risk assessment, interview readiness, and reporting, with real-time SSE execution streaming and resilient model fallback. <a href="https://tinyurl.com/bdvrnmxn">Watch the demo</a>.</p>
-      <sub><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Drizzle ORM</code> <code>OpenAI</code> <code>SSE</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://www.limelight.pk/">Enterprise PLM / MES System</a></h4>
-      <sub><b>Solution Architect</b> · LimeLight</sub>
-      <p>An enterprise platform connecting product lifecycle, manufacturing execution, demand planning, materials, costing, WIP, and quality control, integrated with SAP Business One Service Layer, Candela, Gingko, Flow HCM, and Shopify.</p>
-      <sub><code>ASP.NET Core</code> <code>C#</code> <code>PostgreSQL</code> <code>Redis</code> <code>RabbitMQ</code> <code>Microservices</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://tinyurl.com/43b237jc">Smart Building Automation System</a></h4>
-      <sub><b>System Architect</b> · Hyetel X & Pakistan Air Force</sub>
-      <p>A distributed building management system unifying HVAC, CCTV, fire safety, access control, and energy monitoring through an interactive 3D building model with real-time incident navigation and live camera feeds. Reduced downtime by <b>85%</b> while handling millions of requests.</p>
-      <sub><code>Node.js</code> <code>Python</code> <code>React</code> <code>Socket.IO</code> <code>Kafka</code> <code>AI / ML</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://hk.swiftnine.com/">Enterprise Commerce & Payment Platform</a></h4>
-      <sub><b>Backend Architect</b> · SwiftNine LLC</sub>
-      <p>A centralized multi-tenant backend for Shopify and WooCommerce storefronts with cross-store checkout, product synchronization, and payment orchestration across Stripe, PayPal, OceanPayment, and Adyen.</p>
-      <sub><code>Node.js</code> <code>PHP</code> <code>PostgreSQL</code> <code>Shopify</code> <code>WooCommerce</code> <code>Stripe</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://emergimentors.com.au/">Emergi Mentors</a></h4>
-      <sub><b>Team Lead & Backend Architect</b> · Mentorship platform</sub>
-      <p>Led an 8+ member team to build and launch a mentorship marketplace with AI-powered career services and real-time live video mentoring sessions.</p>
-      <sub><code>Python</code> <code>FastAPI</code> <code>Node.js</code> <code>Laravel</code> <code>PostgreSQL</code> <code>Docker</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://syntaxility.vercel.app/">SyntaxilitY Media Player</a></h4>
-      <sub><b>Creator</b> · Cross-platform desktop application</sub>
-      <p>A desktop media player with playlists, subtitles, lyrics, mini-player and floating modes, and dynamic theming derived from the media currently playing.</p>
-      <sub><code>Electron</code> <code>React</code> <code>TypeScript</code> <code>Zustand</code> <code>Vite</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://apps.apple.com/ae/app/recipenine-ai/id6760646769">RecipeNine AI</a></h4>
-      <sub><b>Mobile Engineer</b> · iOS App Store</sub>
-      <p>An AI-powered recipe application built with React Native and Expo, published on the Apple App Store.</p>
-      <sub><code>React Native</code> <code>Expo</code> <code>AI</code></sub>
-    </td>
+    <td align="center" width="20%"><h2>9+</h2><sub>YEARS IN PRODUCTION</sub></td>
+    <td align="center" width="20%"><h2>100+</h2><sub>CLIENT PROJECTS DELIVERED</sub></td>
+    <td align="center" width="20%"><h2>85%</h2><sub>DOWNTIME CUT, SMART BUILDING</sub></td>
+    <td align="center" width="20%"><h2>8+</h2><sub>ENGINEERS LED</sub></td>
+    <td align="center" width="20%"><h2>19</h2><sub>NPM PACKAGES PUBLISHED</sub></td>
   </tr>
 </table>
 
-<p align="center"><a href="https://tinyurl.com/other-demos">More project demos</a> &nbsp;·&nbsp; <a href="https://tinyurl.com/ywpp6u49">Video introduction</a></p>
+<br />
 
----
+## Now
+
+<sub>Updated October 2026 &nbsp;·&nbsp; <a href="https://www.tariq-mehmood.online/now">tariq-mehmood.online/now</a></sub>
+
+1. **Architecting an enterprise manufacturing platform:** event-driven microservices for product lifecycle, production planning and ERP workflows, with the data layer prepared for device telemetry and AI-assisted planning.
+2. **Growing AxilJS:** expanding the `@axiljs` packages with AI and agent support, observability, multi-tenancy and the dev studio.
+3. **Shipping the SyntaxilitY Media Player:** iterating on playback modes, lyrics and media-driven theming.
+4. **Open to the next role:** senior engineering, architecture and AI engineering, full-time, contract or remote.
+
+<br />
+
+## Systems I've Architected
+
+Nine platforms across enterprise manufacturing, multi-agent AI, defense, commerce and payments, real-time and open source. Each case study on my portfolio includes an interactive architecture diagram.
+
+| | System | Role | Highlights | |
+| :-- | :-- | :-- | :-- | :-- |
+| 01 | **Enterprise Manufacturing Platform** | Solution Architect | PLM / MES event-driven microservices, ERP integration layer, telemetry-ready. `.NET` `PostgreSQL` `Redis` | [Case study](https://www.tariq-mehmood.online/work/current-role) |
+| 02 | **[Tygent](https://tygent.vercel.app/)**: Multi-Agent Recruitment AI | Creator & Architect | 8 orchestrated agents, live SSE streaming, LLM model fallback. `Next.js` `OpenAI` `Drizzle` | [Case study](https://www.tariq-mehmood.online/work/tygent) · [Demo](https://tinyurl.com/bdvrnmxn) |
+| 03 | **[Enterprise Commerce & Payments](https://hk.swiftnine.com/)** | Senior Software Engineer | Multi-tenant backend for Shopify / WooCommerce, cross-store checkout, 4 payment providers. `Node.js` `Stripe` `Adyen` | [Case study](https://www.tariq-mehmood.online/work/commerce-payments) |
+| 04 | **[AxilJS](https://www.axiljs.dev/)**: Backend Ecosystem | Creator & Architect | Modular TypeScript backend toolkit, 19 npm packages. `TypeScript` `Node.js` `Kafka` | [Case study](https://www.tariq-mehmood.online/work/axiljs) |
+| 05 | **Smart Building Automation**: Pakistan Air Force | Senior Software Engineer | 16+ subsystems in real time, millions of requests, AI anomaly detection, 85% less downtime. `Node.js` `Python` `Kafka` | [Case study](https://www.tariq-mehmood.online/work/smart-building) · [Demo](https://tinyurl.com/43b237jc) |
+| 06 | **[Emergi Mentors](https://emergimentors.com.au/)** | Technical Lead & Architect | Mentoring platform with live video and AI features, 8+ engineer team. `FastAPI` `Laravel` `PostgreSQL` | [Case study](https://www.tariq-mehmood.online/work/emergi-mentors) |
+| 07 | **[Casinoze](https://casinoze.com/)**: Real-Time Gaming | Backend Lead | DRF APIs, WebSocket live events, Celery workers. `Django` `Redis` `PostgreSQL` | [Case study](https://www.tariq-mehmood.online/work/casinoze) |
+| 08 | **Odoo Automation System** | Senior Software Engineer | Custom Odoo 19 modules, WhatsApp Cloud API lead capture, multi-company. `Odoo` `Python` `AWS` | [Case study](https://www.tariq-mehmood.online/work/swiftnine-odoo) |
+| 09 | **[SyntaxilitY Media Player](https://syntaxility.vercel.app/)** | Creator & Architect | Electron desktop player with adaptive theming and mini / floating modes. `Electron` `React` `Zustand` | [Case study](https://www.tariq-mehmood.online/work/media-player) |
+
+<br />
+
+## Open Source: AxilJS
+
+[AxilJS](https://www.axiljs.dev/) is my modular TypeScript backend ecosystem: the infrastructure I kept rebuilding on every project, packaged once and published to npm.
+
+<p>
+  <a href="https://www.npmjs.com/org/axiljs"><img src="https://img.shields.io/npm/v/@axiljs/core?style=flat-square&label=%40axiljs%2Fcore&color=f5a524&labelColor=0a0a0a" alt="npm version" /></a>
+  <a href="https://www.npmjs.com/org/axiljs"><img src="https://img.shields.io/npm/dm/@axiljs/core?style=flat-square&label=downloads&color=f5a524&labelColor=0a0a0a" alt="npm downloads" /></a>
+  <a href="https://github.com/SyntaxilitY/AxilJS"><img src="https://img.shields.io/github/stars/SyntaxilitY/AxilJS?style=flat-square&label=stars&color=f5a524&labelColor=0a0a0a" alt="GitHub stars" /></a>
+</p>
+
+```ts
+import { Application } from '@axiljs/core'
+
+const app = new Application()
+
+app.get('/users', (req, res) => res.success(users, 'Users fetched'))
+app.post('/users', (req, res) => res.created(req.body, 'User created'))
+
+app.listen()
+```
+
+| Package | Purpose | Package | Purpose |
+| :-- | :-- | :-- | :-- |
+| `@axiljs/core` | HTTP server, router, middleware | `@axiljs/queue` | Message queue, cron, retry with backoff |
+| `@axiljs/orm` | PostgreSQL, MySQL, SQLite, migrations | `@axiljs/events` | Pub/sub event bus |
+| `@axiljs/auth` | JWT, password hashing, RBAC | `@axiljs/circuit` | Circuit breaker, retries, timeouts |
+| `@axiljs/security` | Helmet, rate limiting, CSRF, sanitization | `@axiljs/ai` | OpenAI, Anthropic, Gemini, Ollama, RAG, agents, MCP |
+| `@axiljs/validation` | Schema-based request validation | `@axiljs/observability` | Logs, Prometheus metrics, tracing |
+| `@axiljs/websocket` | RFC 6455 server with rooms | `@axiljs/cloud` | Multi-tenancy, audit logs, feature flags |
+| `@axiljs/testing` | Test runner and HTTP test client | `@axiljs/cli` | `axil create`, `run`, `build`, `test`, `deploy` |
+
+**Also built:** [Tumigo](https://www.tariq-mehmood.online/tumigo), a Python-based programming language.
+
+<br />
+
+## More Live Work
+
+| Project | Description |
+| :-- | :-- |
+| [Code Arena](https://codearena-woad-seven.vercel.app/) | Production-grade SaaS for live coding interviews, technical assessments and collaborative programming sessions. |
+| [Faagent](https://migentic.vercel.app/) | Micro-agentic AI system built from many small, narrowly scoped agents instead of one general-purpose agent. |
+| ImageForge AI | Modular engine for programmatic image generation across OpenAI, Stability AI, Replicate and local models. |
+| SyntaxilitY AI CLI | Command-line tool that generates professional app icons from natural-language descriptions. |
+| [RecipeNine AI](https://apps.apple.com/ae/app/recipenine-ai/id6760646769) | AI recipe app built with React Native and Expo, live on the App Store. |
+
+<br />
+
+## What I Do Best
+
+| Discipline | Toolkit |
+| :-- | :-- |
+| **Solution Architecture & System Design** | Microservices, modular monoliths, multi-tenant SaaS, SOA, MVC / MVVM / MVT, database and API design |
+| **Backend Engineering & APIs** | Node.js, Express, TypeScript, Python, FastAPI, Django, ASP.NET Core, Prisma, Drizzle, REST, OpenAPI, JWT, OAuth 2.0, RBAC |
+| **Event-Driven & Real-Time Systems** | Apache Kafka, RabbitMQ, Redis, Celery, WebSockets, Socket.IO, SSE, clustering, worker threads |
+| **AI Engineering** | LLMs, multi-agent orchestration, RAG, LangChain, OpenAI, Claude, NLP, computer vision, anomaly detection |
+| **Enterprise & Payment Integrations** | SAP Business One, Odoo 19, WhatsApp Cloud API, Shopify, WooCommerce, Stripe, PayPal, Adyen, OceanPayment |
+| **Cloud, DevOps & Delivery** | AWS (EC2, S3, RDS), Docker, Kubernetes, Nginx, Linux, GitHub Actions, unit and integration testing |
+| **Full-Stack, Desktop & Mobile** | React, Next.js, Redux Toolkit, Zustand, Tailwind CSS, Electron, React Native, Flutter |
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,py,cs,dotnet,postgres,redis,rabbitmq,kafka,aws,docker,kubernetes,nextjs,react,electron,flutter&theme=dark&perline=16" alt="Core stack" />
+</p>
+
+<br />
 
 ## Experience
 
-| Role | Company | Period |
-| --- | --- | --- |
-| Senior Software Engineer & Solution Architect | [LimeLight](https://www.limelight.pk/) | Sep 2026 – Present |
-| Senior Software Engineer | SwiftNine LLC | Mar 2026 – Aug 2026 |
-| Senior Software Engineer (Contract) | Hyetel X & Pakistan Air Force | Aug 2025 – Mar 2026 |
-| Senior Technical Team Lead (Contract) | LCI Systems | Mar 2025 – Aug 2025 |
-| Senior Full Stack Developer (Contract) | Dark Bytes | Sep 2024 – Apr 2025 |
-| Full Stack Developer (Contract) | MTech Soft LLC | Jan 2024 – Dec 2024 |
-| Full Stack Developer | INSTACOM (ISP) | Feb 2020 – Nov 2023 |
-| Full Stack Engineer | Freelance: Upwork, Freelancer, Fiverr | Feb 2017 – Aug 2025 |
+| Period | Role | Company |
+| :-- | :-- | :-- |
+| Sep 2026 – Present | Senior Software Engineer & Solution Architect | Enterprise manufacturing platform |
+| Mar 2026 – Aug 2026 | Senior Software Engineer | SwiftNine LLC |
+| Aug 2025 – Mar 2026 | Senior Software Engineer (Contract) | Hyetel X, Pakistan Air Force |
+| Mar 2025 – Aug 2025 | Senior Technical Team Lead (Contract) | LCI Systems |
+| Sep 2024 – Apr 2025 | Senior Full Stack Developer (Contract) | Dark Bytes |
+| Jan 2024 – Dec 2024 | Full Stack Developer (Contract) | MTech Soft LLC |
+| Feb 2020 – Nov 2023 | Full Stack Developer | INSTACOM (ISP) |
+| Feb 2017 – Aug 2025 | Full Stack Engineer (Freelance) | Upwork, Freelancer, Fiverr |
 
----
+**Education:** BS Software Engineering, COMSATS University Islamabad, Vehari Campus (2020 – 2024)
 
-## Technical Skills
-
-<table>
-  <tr>
-    <td width="170"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,py,cs,cpp,dart,kotlin" /></td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,dotnet,graphql" /></td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite,html,css,sass" /></td>
-  </tr>
-  <tr>
-    <td><b>Mobile & Desktop</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,flutter,electron" /></td>
-  </tr>
-  <tr>
-    <td><b>Databases & ORMs</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,supabase,firebase,prisma" /><br/>
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-      <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
-      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Messaging & Real-Time</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=redis,rabbitmq,kafka" /><br/>
-      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-      <img src="https://img.shields.io/badge/WebSockets-4A5568?style=flat-square" />
-      <img src="https://img.shields.io/badge/Server--Sent%20Events-4A5568?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI Engineering</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/LLMs-4A5568?style=flat-square" />
-      <img src="https://img.shields.io/badge/AI%20Agents-4A5568?style=flat-square" />
-      <img src="https://img.shields.io/badge/RAG-4A5568?style=flat-square" />
-      <img src="https://img.shields.io/badge/NLP-4A5568?style=flat-square" />
-      <img src="https://img.shields.io/badge/Computer%20Vision-4A5568?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Cloud & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,linux,githubactions,git" /></td>
-  </tr>
-  <tr>
-    <td><b>Integrations</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
-      <img src="https://img.shields.io/badge/Odoo%2019-714B67?style=flat-square&logo=odoo&logoColor=white" />
-      <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
-      <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
-      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-      <img src="https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white" />
-      <img src="https://img.shields.io/badge/Adyen-0ABF53?style=flat-square&logo=adyen&logoColor=white" />
-      <img src="https://img.shields.io/badge/WhatsApp%20Cloud%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>API & Testing</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postman" /><br/>
-      <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-      <img src="https://img.shields.io/badge/REST%20APIs-4A5568?style=flat-square" />
-      <img src="https://img.shields.io/badge/Unit%20%26%20Integration%20Testing-4A5568?style=flat-square" />
-    </td>
-  </tr>
-</table>
-
-**Architecture:** Microservices · Monolithic · Distributed Systems · Event-Driven · Multi-Tenant SaaS · Service-Oriented · Modular · MVC · MVVM · MVT
-
-**Security:** JWT · RBAC · OAuth 2.0 · API Security · CORS · CSRF · Rate Limiting
-
----
+<br />
 
 ## GitHub Activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TariqMehmood1004&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TariqMehmood1004&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=TariqMehmood1004&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TariqMehmood1004&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=f5a524&icon_color=f5a524&text_color=d4d4d4" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TariqMehmood1004&layout=compact&langs_count=8&hide_border=true&bg_color=0a0a0a&title_color=f5a524&text_color=d4d4d4" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=TariqMehmood1004&hide_border=true&background=0A0A0A&ring=F5A524&fire=F5A524&currStrNum=FAFAFA&sideNums=FAFAFA&currStrLabel=F5A524&sideLabels=A3A3A3&dates=737373&stroke=1F1F1F" alt="GitHub streak" />
+</p>
 
----
+<br />
 
-## Education
+## Let's Build Something Great Together
 
-**Bachelor of Science in Software Engineering**
-COMSATS University Islamabad, Vehari Campus · 2020 – 2024
+Open to **Senior Software Engineering, Software and Solutions Architecture, AI Engineering, Backend Engineering and Technical Leadership** roles: full-time, contract or remote.
 
----
-
-## Get in Touch
-
-I am always open to discussing architecture, backend systems, AI engineering, and new opportunities.
-
-**Email:** [tariq-mehmood@engineer.com](mailto:tariq-mehmood@engineer.com) &nbsp;·&nbsp; **LinkedIn:** [tariq-mehmood-3ab013254](https://www.linkedin.com/in/tariq-mehmood-3ab013254/) &nbsp;·&nbsp; **Portfolio:** [tariq-mehmood.online](https://www.tariq-mehmood.online)
+**[tariq-mehmood@engineer.com](mailto:tariq-mehmood@engineer.com)** &nbsp;·&nbsp; [Online resume](https://www.tariq-mehmood.online/resume) &nbsp;·&nbsp; [2-minute video intro](https://tinyurl.com/ywpp6u49) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/tar-me/)
