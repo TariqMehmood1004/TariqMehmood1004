@@ -1,5 +1,5 @@
 <a href="https://www.tariq-mehmood.online">
-  <img src="./assets/banner.svg" width="100%" alt="Tariq Mehmood, Senior Software Engineer and Solution Architect" />
+  <img src="./banner.svg" width="100%" alt="Tariq Mehmood, Senior Software Engineer and Solution Architect" />
 </a>
 
 <p align="center">
