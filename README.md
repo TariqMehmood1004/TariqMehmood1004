@@ -1,135 +1,225 @@
 <div align="center">
 
-# Hi, I'm Tariq Mehmood 👋
+# Tariq Mehmood
 
-<a href="https://github.com/TariqMehmood1004">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer;Full+Stack+%26+MERN+Stack+Developer;AI+%2F+ML+Engineer;Software+Architect;Creator+of+the+TUMIGO+Programming+Language" alt="Typing SVG" />
-</a>
+**Senior Software Engineer &nbsp;|&nbsp; Software Architect &nbsp;|&nbsp; Full Stack Engineer &nbsp;|&nbsp; AI Engineer**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Designing+scalable%2C+distributed%2C+AI-powered+systems;Enterprise+PLM+%2F+MES+%E2%80%A2+Multi-tenant+SaaS+%E2%80%A2+Real-time+platforms;Founder+of+AxilJS+-+a+modern+backend+ecosystem+for+JS+%2F+TS" alt="Typing SVG" />
 
 <p>
-  <a href="https://www.linkedin.com/in/tariq-mehmood-3ab013254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/TariqMe58571569"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.youtube.com/channel/UCCg95flDcqFkqyswtfdPX0g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100086602329322"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/_i_am_tariq_mehmood_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.reddit.com/user/tariq_here_"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit" /></a>
-  <a href="https://www.pinterest.com/johnbrrighte7427206/"><img src="https://img.shields.io/badge/Pinterest-E60023?style=flat&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
-  <img src="https://komarev.com/ghpvc/?username=TariqMehmood1004&style=flat&color=58A6FF&label=Profile+views" alt="Profile views" />
+  <a href="https://www.tariq-mehmood.online"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/tariq-mehmood-3ab013254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tariq-mehmood@engineer.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <a href="https://www.axiljs.dev/"><img src="https://img.shields.io/badge/AxilJS-1F2937?style=for-the-badge&logo=typescript&logoColor=white" alt="AxilJS" /></a>
+  <a href="https://github.com/SyntaxilitY"><img src="https://img.shields.io/badge/SyntaxilitY-181717?style=for-the-badge&logo=github&logoColor=white" alt="SyntaxilitY on GitHub" /></a>
+  <a href="https://leetcode.com/u/TariqMehmood1004"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.youtube.com/@SyntaxilitY"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
+
+<sub>Lahore, Pakistan &nbsp;·&nbsp; 8+ years of engineering since 2017 &nbsp;·&nbsp; 100+ delivered projects</sub>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
-I'm a **Senior Software Engineer** and **Software Architect** who designs and builds systems end to end, from architecture and APIs to web, mobile, and AI-powered products.
+I am a Senior Software Engineer and Software Architect specializing in the design and development of **scalable enterprise, multi-tenant SaaS, distributed, cloud-native, and AI-powered systems**.
 
-- 🏗️ **Architecture first:** I design the whole structure of a system before writing the first line of code.
-- 🌐 **Full stack:** Senior MERN, Next.js, Django, Laravel, and ASP.NET Core developer.
-- 🤖 **AI engineering:** Machine learning, deep learning, and NLP.
-- 📱 **Mobile:** Flutter and React Native apps shipped to Google Play and the App Store.
-- ☁️ **Cloud & DevOps:** AWS (EC2, RDS, S3, ELB, Auto Scaling), cPanel, and production deployments.
-- 🧪 **Process:** Scrum, Waterfall, JIRA, and AIO Tests.
-- 🧭 **Mentor:** I enjoy helping other developers grow in a field that never stops changing.
+My core strengths are backend engineering and system architecture: Node.js, TypeScript, Python, ASP.NET Core, PostgreSQL, real-time systems, event-driven architecture, AWS, Docker, and CI/CD. I take complex business requirements from architecture and system design through implementation, deployment, and production operations.
 
-> *Basically, a one-man IT department on the move.*
+**Currently**
 
-**Strong foundations in:** Programming Fundamentals · Object-Oriented Programming · Data Structures & Algorithms · Database Management Systems
+- Senior Software Engineer & Solution Architect at **[LimeLight](https://www.limelight.pk/)**, architecting an enterprise PLM / MES platform with SAP Business One, IoT, and AI integrations.
+- Building **[AxilJS](https://www.axiljs.dev/)**, a modular, next-generation backend ecosystem for JavaScript and TypeScript.
+
+**Open to:** Senior Software Engineering · Software / Solutions Architecture · AI Engineering · Backend Engineering · Technical Leadership
 
 ---
 
-## 🚀 Featured Work
-
-| Project | Description |
-| --- | --- |
-| **TUMIGO Programming Language** | A programming language I founded and am building. *(In development)* |
-| [`create-syntaxility-express-app`](https://www.npmjs.com/package/create-syntaxility-express-app) | CLI that scaffolds a production-ready Express.js app. |
-| [`create-syntaxility-next-app`](https://www.npmjs.com/package/create-syntaxility-next-app) | CLI that scaffolds a production-ready Next.js app. |
-
-```bash
-npx create-syntaxility-express-app@latest
-npx create-syntaxility-next-app@latest
-```
-
----
-
-## 🛠️ Tech Stack
+## Featured Projects
 
 <table>
   <tr>
-    <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,py,php,java,cs,cpp,c,dart,r,perl,html,css" /></td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,sass,less,jquery" /></td>
-  </tr>
-  <tr>
-    <td><b>Backend & APIs</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,laravel,dotnet,apache" /></td>
-  </tr>
-  <tr>
-    <td><b>Mobile & Games</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,unity" />
-      <br/><img src="https://img.shields.io/badge/Xamarin-3199DC?style=flat&logo=xamarin&logoColor=white" />
+    <td width="50%" valign="top">
+      <h4><a href="https://www.axiljs.dev/">AxilJS</a></h4>
+      <sub><b>Founder & Architect</b> · Open-source backend ecosystem</sub>
+      <p>A modular, package-based JavaScript / TypeScript backend ecosystem covering HTTP, routing, ORM, authentication, security, validation, queues, events, WebSockets, SSE, AI / LLM, testing, observability, and CLI tooling. Supports both monolithic and microservice architectures.</p>
+      <sub><code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code> <code>RabbitMQ</code> <code>Kafka</code> <code>npm Workspaces</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://tygent.vercel.app/">Tygent</a></h4>
+      <sub><b>Architect & Lead Engineer</b> · Multi-agent AI recruitment platform</sub>
+      <p>An 8-agent AI orchestration pipeline for resume and JD analysis, candidate matching, hiring-risk assessment, interview readiness, and reporting, with real-time SSE execution streaming and resilient model fallback. <a href="https://tinyurl.com/bdvrnmxn">Watch the demo</a>.</p>
+      <sub><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Drizzle ORM</code> <code>OpenAI</code> <code>SSE</code></sub>
     </td>
   </tr>
   <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase" />
-      <br/><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+    <td width="50%" valign="top">
+      <h4><a href="https://www.limelight.pk/">Enterprise PLM / MES System</a></h4>
+      <sub><b>Solution Architect</b> · LimeLight</sub>
+      <p>An enterprise platform connecting product lifecycle, manufacturing execution, demand planning, materials, costing, WIP, and quality control, integrated with SAP Business One Service Layer, Candela, Gingko, Flow HCM, and Shopify.</p>
+      <sub><code>ASP.NET Core</code> <code>C#</code> <code>PostgreSQL</code> <code>Redis</code> <code>RabbitMQ</code> <code>Microservices</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://tinyurl.com/43b237jc">Smart Building Automation System</a></h4>
+      <sub><b>System Architect</b> · Hyetel X & Pakistan Air Force</sub>
+      <p>A distributed building management system unifying HVAC, CCTV, fire safety, access control, and energy monitoring through an interactive 3D building model with real-time incident navigation and live camera feeds. Reduced downtime by <b>85%</b> while handling millions of requests.</p>
+      <sub><code>Node.js</code> <code>Python</code> <code>React</code> <code>Socket.IO</code> <code>Kafka</code> <code>AI / ML</code></sub>
     </td>
   </tr>
   <tr>
-    <td><b>AI / Data</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat" />
-      <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=flat" />
-      <img src="https://img.shields.io/badge/NLP-2E86C1?style=flat" />
+    <td width="50%" valign="top">
+      <h4><a href="https://hk.swiftnine.com/">Enterprise Commerce & Payment Platform</a></h4>
+      <sub><b>Backend Architect</b> · SwiftNine LLC</sub>
+      <p>A centralized multi-tenant backend for Shopify and WooCommerce storefronts with cross-store checkout, product synchronization, and payment orchestration across Stripe, PayPal, OceanPayment, and Adyen.</p>
+      <sub><code>Node.js</code> <code>PHP</code> <code>PostgreSQL</code> <code>Shopify</code> <code>WooCommerce</code> <code>Stripe</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://emergimentors.com.au/">Emergi Mentors</a></h4>
+      <sub><b>Team Lead & Backend Architect</b> · Mentorship platform</sub>
+      <p>Led an 8+ member team to build and launch a mentorship marketplace with AI-powered career services and real-time live video mentoring sessions.</p>
+      <sub><code>Python</code> <code>FastAPI</code> <code>Node.js</code> <code>Laravel</code> <code>PostgreSQL</code> <code>Docker</code></sub>
     </td>
   </tr>
   <tr>
-    <td><b>Cloud & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,linux,postman" /></td>
-  </tr>
-  <tr>
-    <td><b>Design</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=figma,xd,sketch,ps,ai,pr" />
-      <br/><img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat&logo=adobelightroom&logoColor=white" /> <img src="https://img.shields.io/badge/Dreamweaver-FF61F6?style=flat&logo=adobedreamweaver&logoColor=white" />
+    <td width="50%" valign="top">
+      <h4><a href="https://syntaxility.vercel.app/">SyntaxilitY Media Player</a></h4>
+      <sub><b>Creator</b> · Cross-platform desktop application</sub>
+      <p>A desktop media player with playlists, subtitles, lyrics, mini-player and floating modes, and dynamic theming derived from the media currently playing.</p>
+      <sub><code>Electron</code> <code>React</code> <code>TypeScript</code> <code>Zustand</code> <code>Vite</code></sub>
     </td>
-  </tr>
-  <tr>
-    <td><b>Process & Testing</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=jira" />
-      <br/><img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat" /> <img src="https://img.shields.io/badge/AIO%20Tests-0052CC?style=flat" /> <img src="https://img.shields.io/badge/Waterfall-555555?style=flat" />
+    <td width="50%" valign="top">
+      <h4><a href="https://apps.apple.com/ae/app/recipenine-ai/id6760646769">RecipeNine AI</a></h4>
+      <sub><b>Mobile Engineer</b> · iOS App Store</sub>
+      <p>An AI-powered recipe application built with React Native and Expo, published on the Apple App Store.</p>
+      <sub><code>React Native</code> <code>Expo</code> <code>AI</code></sub>
     </td>
   </tr>
 </table>
 
+<p align="center"><a href="https://tinyurl.com/other-demos">More project demos</a> &nbsp;·&nbsp; <a href="https://tinyurl.com/ywpp6u49">Video introduction</a></p>
+
 ---
 
-## 📊 GitHub Stats
+## Experience
+
+| Role | Company | Period |
+| --- | --- | --- |
+| Senior Software Engineer & Solution Architect | [LimeLight](https://www.limelight.pk/) | Sep 2026 – Present |
+| Senior Software Engineer | SwiftNine LLC | Mar 2026 – Aug 2026 |
+| Senior Software Engineer (Contract) | Hyetel X & Pakistan Air Force | Aug 2025 – Mar 2026 |
+| Senior Technical Team Lead (Contract) | LCI Systems | Mar 2025 – Aug 2025 |
+| Senior Full Stack Developer (Contract) | Dark Bytes | Sep 2024 – Apr 2025 |
+| Full Stack Developer (Contract) | MTech Soft LLC | Jan 2024 – Dec 2024 |
+| Full Stack Developer | INSTACOM (ISP) | Feb 2020 – Nov 2023 |
+| Full Stack Engineer | Freelance: Upwork, Freelancer, Fiverr | Feb 2017 – Aug 2025 |
+
+---
+
+## Technical Skills
+
+<table>
+  <tr>
+    <td width="170"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,py,cs,cpp,dart,kotlin" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,dotnet,graphql" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite,html,css,sass" /></td>
+  </tr>
+  <tr>
+    <td><b>Mobile & Desktop</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,flutter,electron" /></td>
+  </tr>
+  <tr>
+    <td><b>Databases & ORMs</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,supabase,firebase,prisma" /><br/>
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+      <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
+      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Messaging & Real-Time</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=redis,rabbitmq,kafka" /><br/>
+      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebSockets-4A5568?style=flat-square" />
+      <img src="https://img.shields.io/badge/Server--Sent%20Events-4A5568?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI Engineering</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/LLMs-4A5568?style=flat-square" />
+      <img src="https://img.shields.io/badge/AI%20Agents-4A5568?style=flat-square" />
+      <img src="https://img.shields.io/badge/RAG-4A5568?style=flat-square" />
+      <img src="https://img.shields.io/badge/NLP-4A5568?style=flat-square" />
+      <img src="https://img.shields.io/badge/Computer%20Vision-4A5568?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,linux,githubactions,git" /></td>
+  </tr>
+  <tr>
+    <td><b>Integrations</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Odoo%2019-714B67?style=flat-square&logo=odoo&logoColor=white" />
+      <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+      <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+      <img src="https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white" />
+      <img src="https://img.shields.io/badge/Adyen-0ABF53?style=flat-square&logo=adyen&logoColor=white" />
+      <img src="https://img.shields.io/badge/WhatsApp%20Cloud%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>API & Testing</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postman" /><br/>
+      <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+      <img src="https://img.shields.io/badge/REST%20APIs-4A5568?style=flat-square" />
+      <img src="https://img.shields.io/badge/Unit%20%26%20Integration%20Testing-4A5568?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+**Architecture:** Microservices · Monolithic · Distributed Systems · Event-Driven · Multi-Tenant SaaS · Service-Oriented · Modular · MVC · MVVM · MVT
+
+**Security:** JWT · RBAC · OAuth 2.0 · API Security · CORS · CSRF · Rate Limiting
+
+---
+
+## GitHub Activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TariqMehmood1004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TariqMehmood1004&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TariqMehmood1004&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TariqMehmood1004&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=TariqMehmood1004&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=TariqMehmood1004&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </div>
 
 ---
 
-## 🤝 Let's Work Together
+## Education
 
-I'm open to collaborating on **full stack products, AI/ML systems, mobile apps, and system architecture**. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/tariq-mehmood-3ab013254/).
+**Bachelor of Science in Software Engineering**
+COMSATS University Islamabad, Vehari Campus · 2020 – 2024
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
-</div>
+---
+
+## Get in Touch
+
+I am always open to discussing architecture, backend systems, AI engineering, and new opportunities.
+
+**Email:** [tariq-mehmood@engineer.com](mailto:tariq-mehmood@engineer.com) &nbsp;·&nbsp; **LinkedIn:** [tariq-mehmood-3ab013254](https://www.linkedin.com/in/tariq-mehmood-3ab013254/) &nbsp;·&nbsp; **Portfolio:** [tariq-mehmood.online](https://www.tariq-mehmood.online)
