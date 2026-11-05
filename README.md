@@ -148,11 +148,15 @@ app.listen()
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TariqMehmood1004&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=f5a524&icon_color=f5a524&text_color=d4d4d4" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TariqMehmood1004&layout=compact&langs_count=8&hide_border=true&bg_color=0a0a0a&title_color=f5a524&text_color=d4d4d4" alt="Top languages" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile details" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TariqMehmood1004&hide_border=true&background=0A0A0A&ring=F5A524&fire=F5A524&currStrNum=FAFAFA&sideNums=FAFAFA&currStrLabel=F5A524&sideLabels=A3A3A3&dates=737373&stroke=1F1F1F" alt="GitHub streak" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most committed languages" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repositories per language" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive time" />
 </p>
 
 <br />
