@@ -1,99 +1,135 @@
-<meta name="google-site-verification" content="oLWuOdGiG6sXVLli1FRrOHa3T845JKTaK1Kjk_ZnFiA" />
+<div align="center">
 
-## About Me:
-I am a 𝐬𝐞𝐧𝐢𝐨𝐫 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫 (𝐬𝐞𝐧𝐢𝐨𝐫 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫, 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫), 𝐚𝐧𝐝 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 (𝐀𝐈 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭) & a 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞; design the whole structure of the system. With expertise in over 26 programming languages, frameworks, platforms, library programming, and a CLI maker like NodeJS cli system named 𝙣𝙥𝙭 𝙘𝙧𝙚𝙖𝙩𝙚-𝙨𝙮𝙣𝙩𝙖𝙭𝙞𝙡𝙞𝙩𝙮-𝙚𝙭𝙥𝙧𝙚𝙨𝙨-𝙖𝙥𝙥@𝙡𝙖𝙩𝙚𝙨𝙩 & 𝙣𝙥𝙭 𝙘𝙧𝙚𝙖𝙩𝙚-𝙨𝙮𝙣𝙩𝙖𝙭𝙞𝙡𝙞𝙩𝙮-𝙣𝙚𝙭𝙩-𝙖𝙥𝙥@𝙡𝙖𝙩𝙚𝙨𝙩. Beyond coding, I am a natural communicator and mentor, committed to empowering others in the ever-evolving field of software engineering.
+# Hi, I'm Tariq Mehmood 👋
 
-Basically, I'm a one-man IT department on the move.
+<a href="https://github.com/TariqMehmood1004">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer;Full+Stack+%26+MERN+Stack+Developer;AI+%2F+ML+Engineer;Software+Architect;Creator+of+the+TUMIGO+Programming+Language" alt="Typing SVG" />
+</a>
 
-### 𝐇𝐚𝐯𝐢𝐧𝐠 𝐬𝐭𝐫𝐨𝐧𝐠 𝐜𝐞𝐧𝐜𝐞𝐩𝐭𝐬 𝐢𝐧:
-• Programming Fundamentals (PF). <br />
-• Object-oriented programming (OOP). <br />
-• Data Structure and Algorithm (DSA). <br />
-• Database Management Systems (DBMS). <br />
-• A motivated Mentor. <br />
+<p>
+  <a href="https://www.linkedin.com/in/tariq-mehmood-3ab013254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/TariqMe58571569"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.youtube.com/channel/UCCg95flDcqFkqyswtfdPX0g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100086602329322"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/_i_am_tariq_mehmood_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.reddit.com/user/tariq_here_"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit" /></a>
+  <a href="https://www.pinterest.com/johnbrrighte7427206/"><img src="https://img.shields.io/badge/Pinterest-E60023?style=flat&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
+  <img src="https://komarev.com/ghpvc/?username=TariqMehmood1004&style=flat&color=58A6FF&label=Profile+views" alt="Profile views" />
+</p>
 
-<hr>
- 
-## Skills
-
-- **JIRA Tester** | Scrum Master | **AIO Tests** | **Water fall**
-- **AWS Web Deployment** | EC2 | **RDS** | **S3** | **ELB** | Auto Scaling
-- **App Deployments**
-  - Google Play Store
-  - Apple Store
-- **Sr. Full Stack Developer**
-- **Sr. MERN Stack Developer**
-  - MongoDB Expert
-  - Express Expert
-  - React Expert
-  - Node.js Expert
-- **Sr. Mobile Developer**
-- **Sr. Flutter Developer**
-- **Sr. Django Developer**
-- **Sr. Laravel Developer**
-- **Sr. Database Developer**
-  - Microsoft SQL Server
-  - MySQL Server
-  - MongoDB
-  - PostgreSQL
-  - Firebase
-  - SQLite3
-- **Sr. Python Developer**
-- **Sr. PHP Developer**
-- **C/C++ Developer**
-- **C# Developer**
-- **Sr. JavaScript Developer**
-- **Sr. ReactJS/Native Developer**
-- **Sr. NodeJS Developer**
-- **Sr. NextJS Developer**
-- **Sr. ASP.NET (MVC/Core) Developer**
-- **Senior UI/UX Designer**
-  - Figma Designer
-  - Adobe XD Designer
-  - Sketch Designer
-- **Founder & Developer** of **TUMIGO Programming Language** (currently in development)
-- **APIs Developer**
-  - FAST API Developer
-  - REST API Developer
-- **cPanel Live Server Engineer**
-- **AI Engineer**
-  - ML Engineer
-  - Deep Learning Engineer
-  - NLP Engineer
-
-
-
-<br>
-<hr>
-<br>
-🔭 I’m currently working on
-<br>👯 I’m looking to collaborate on
-<br>🤝 I’m looking for help with
-<br>🌱 I’m currently learning
-<br>💬 Ask me about<br>⚡ Fun fact
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100086602329322) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_i_am_tariq_mehmood_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tariq-mehmood-3ab013254/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/johnbrrighte7427206/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/tariq_here_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/TariqMe58571569) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCCg95flDcqFkqyswtfdPX0g) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TariqMehmood1004&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TariqMehmood1004&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TariqMehmood1004&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/TariqMe58571569)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-[![](https://visitcount.itsvg.in/api?id=TariqMehmood1004&label=Tariq%20Memood&color=2&pretty=true)](https://visitcount.itsvg.in)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TariqMehmood1004&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+I'm a **Senior Software Engineer** and **Software Architect** who designs and builds systems end to end, from architecture and APIs to web, mobile, and AI-powered products.
+
+- 🏗️ **Architecture first:** I design the whole structure of a system before writing the first line of code.
+- 🌐 **Full stack:** Senior MERN, Next.js, Django, Laravel, and ASP.NET Core developer.
+- 🤖 **AI engineering:** Machine learning, deep learning, and NLP.
+- 📱 **Mobile:** Flutter and React Native apps shipped to Google Play and the App Store.
+- ☁️ **Cloud & DevOps:** AWS (EC2, RDS, S3, ELB, Auto Scaling), cPanel, and production deployments.
+- 🧪 **Process:** Scrum, Waterfall, JIRA, and AIO Tests.
+- 🧭 **Mentor:** I enjoy helping other developers grow in a field that never stops changing.
+
+> *Basically, a one-man IT department on the move.*
+
+**Strong foundations in:** Programming Fundamentals · Object-Oriented Programming · Data Structures & Algorithms · Database Management Systems
+
+---
+
+## 🚀 Featured Work
+
+| Project | Description |
+| --- | --- |
+| **TUMIGO Programming Language** | A programming language I founded and am building. *(In development)* |
+| [`create-syntaxility-express-app`](https://www.npmjs.com/package/create-syntaxility-express-app) | CLI that scaffolds a production-ready Express.js app. |
+| [`create-syntaxility-next-app`](https://www.npmjs.com/package/create-syntaxility-next-app) | CLI that scaffolds a production-ready Next.js app. |
+
+```bash
+npx create-syntaxility-express-app@latest
+npx create-syntaxility-next-app@latest
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,py,php,java,cs,cpp,c,dart,r,perl,html,css" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,sass,less,jquery" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend & APIs</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,laravel,dotnet,apache" /></td>
+  </tr>
+  <tr>
+    <td><b>Mobile & Games</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,unity" />
+      <br/><img src="https://img.shields.io/badge/Xamarin-3199DC?style=flat&logo=xamarin&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase" />
+      <br/><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat" />
+      <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=flat" />
+      <img src="https://img.shields.io/badge/NLP-2E86C1?style=flat" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,linux,postman" /></td>
+  </tr>
+  <tr>
+    <td><b>Design</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=figma,xd,sketch,ps,ai,pr" />
+      <br/><img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat&logo=adobelightroom&logoColor=white" /> <img src="https://img.shields.io/badge/Dreamweaver-FF61F6?style=flat&logo=adobedreamweaver&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Process & Testing</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=jira" />
+      <br/><img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat" /> <img src="https://img.shields.io/badge/AIO%20Tests-0052CC?style=flat" /> <img src="https://img.shields.io/badge/Waterfall-555555?style=flat" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TariqMehmood1004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TariqMehmood1004&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=TariqMehmood1004&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+---
+
+## 🤝 Let's Work Together
+
+I'm open to collaborating on **full stack products, AI/ML systems, mobile apps, and system architecture**. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/tariq-mehmood-3ab013254/).
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+</div>
